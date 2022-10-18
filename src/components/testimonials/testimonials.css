@@ -2,6 +2,7 @@
     width: 40%;
     overflow: hidden;
     
+    
 }
 
 .client__avatar{
@@ -19,6 +20,7 @@
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
+    width: 100%;
 }
 
 .client__review{
